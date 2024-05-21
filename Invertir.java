@@ -1,3 +1,5 @@
+package Lab02;
+
 public class Invertir {
 
     public static void main(String[] args) {
